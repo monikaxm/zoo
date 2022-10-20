@@ -1,4 +1,9 @@
 panda
 slon
+<<<<<<< HEAD
 lev
 žirafa
+=======
+tiger
+zirafa
+>>>>>>> tiger
