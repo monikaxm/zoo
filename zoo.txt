@@ -1,5 +1,5 @@
-panda
-slon
+panda 🐼
+slon 🐘
 <<<<<<< HEAD
 lev
 žirafa
